@@ -1,0 +1,24 @@
+.container-shop {
+    width: 600px;
+    min-height: 200px;
+    display: flex;
+    flex: 1;
+    background-color: #E3E3E3;
+}
+
+.shop-item {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.shop-item > span {
+    font-size: x-large;
+    margin: auto;
+}
+
+.shop-item > p {
+    margin: auto;
+}

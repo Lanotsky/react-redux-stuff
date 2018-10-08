@@ -1,0 +1,13 @@
+.container-cart {
+    min-height: 200px;
+    width: 600px;
+    display: flex;
+    flex: 1;
+    background-color: #98ACFE;
+}
+
+.cart-row {
+    border: 1px solid black;
+    flex: 1;
+    background-color: rgb(255, 255, 255);
+}
